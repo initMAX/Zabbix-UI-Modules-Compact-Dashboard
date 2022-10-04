@@ -1,0 +1,17 @@
+{
+	"manifest_version": 1,
+	"id": "compactdashboard",
+	"name": "Compact Dashboard",
+	"description": "Change spacing between widgets",
+	"version": "1.0",
+	"namespace": "CompactDashboard",
+	"author": "initMAX s.r.o.",
+	"url": "https://www.initmax.com",
+	"require": {
+		"zabbix": "^6.0"
+	},
+	"actions": {
+	},
+	"config": {
+	}
+}
