@@ -1,10 +1,10 @@
 # Zabbix Compact Dashboard module
 
 ## Default
-<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Compact-Dashboard/-/blob/branch/master/img/default.png" width="400" height="300" />
+<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Compact-Dashboard/-/raw/master/img/default.png" width="400" height="300" />
 
 ## With active module
-<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Compact-Dashboard/-/blob/branch/master/img/with_module.png" width="400" height="300" />
+<img src="https://git.initmax.cz/initMAX-Public/Zabbix-UI-Modules-Compact-Dashboard/-/raw/master/img/with_module.png" width="400" height="300" />
 
 
 ### Functionality
