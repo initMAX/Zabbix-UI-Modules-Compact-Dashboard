@@ -1,0 +1,9 @@
+.dashboard-grid-widget-container {
+    padding: 0px;
+
+    .dashboard-grid-widget-header {
+        left: 0;
+        right: 0;
+        top: 0;
+    }
+}
