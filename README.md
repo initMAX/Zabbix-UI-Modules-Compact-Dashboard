@@ -79,9 +79,9 @@
 ## Installation
 - Connect to your Zabbix frontend server (perform on all frontend nodes)
 
-- Navigate to the `ui/modules/` directory (`ui` is typically located at `/usr/share/zabbix/ui/`)
+- Navigate to the `ui/modules/` directory (`ui` is typically located at `/usr/share/zabbix/`)
     ```sh
-    cd /usr/share/zabbix/ui/modules/
+    cd /usr/share/zabbix/modules/
     ```
 
 - Clone repository on your server <!-- !!! repository !!! -->
