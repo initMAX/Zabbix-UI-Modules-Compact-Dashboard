@@ -1,0 +1,12 @@
+01-overview:
+  alt: "Compact Dashboard showing a dense Zabbix dashboard layout"
+  caption: "Fit more monitoring data on one screen by removing unnecessary spacing around widgets."
+02-before:
+  alt: "Zabbix dashboard before enabling Compact Dashboard"
+  caption: "Before: the standard Zabbix layout leaves wide gaps between dashboard widgets."
+03-after:
+  alt: "Zabbix dashboard after enabling Compact Dashboard"
+  caption: "After: Compact Dashboard gives the same widgets more usable screen space without per-widget configuration."
+widget:
+  alt: "Full Zabbix monitoring dashboard with Compact Dashboard enabled"
+  caption: "A full monitoring dashboard with dense, edge-to-edge widget placement."
