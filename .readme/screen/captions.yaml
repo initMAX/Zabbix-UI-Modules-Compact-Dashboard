@@ -1,0 +1,12 @@
+00-without-module.png:
+  cs: 'Standardní Zabbix: mezera kolem každého widgetu.'
+  en: 'Standard Zabbix: a gap around every widget.'
+01-overview.png:
+  cs: 'S Compact dashboard: stejný dashboard, dlaždice těsně u sebe, víc obsahu na obrazovce.'
+  en: 'With Compact dashboard: the same board, tiles flush against each other, more of it visible.'
+widget.png:
+  cs: Kompletní monitorovací dashboard s kompaktním rozmístěním widgetů od okraje k okraji.
+  en: A full monitoring dashboard with dense, edge-to-edge widget placement.
+02-dashboard-context.png:
+  cs: 'Celý dashboard v kontextu Zabbixu: kompaktní mřížka ponechává více místa monitorovaným datům.'
+  en: 'The full dashboard in Zabbix: the compact grid leaves more room for monitored data.'
